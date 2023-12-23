@@ -1,4 +1,4 @@
 # Klasifikasi-Tweet-Sarkasme-BERT
 
-Positive : Sarkasme
-Negative : Netral
+### Positive : Sarkasme
+### Negative : Netral
